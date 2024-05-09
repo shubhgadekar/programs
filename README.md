@@ -8,4 +8,7 @@ Please run this python file to get the output of SQL query which is placed in th
 This is the database file which is given to perform this assignment.
 
 #customer_item_quantities.csv- 
-This is the output CSV file which is generated after executing the pandas.solution.py file.
+This is the output CSV file which is generated after executing the pandas_solution.py file.
+
+#sqloutput.csv- 
+This is the output CSV file which is generated after executing the sql_solution.py file.
